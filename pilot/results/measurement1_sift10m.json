@@ -1,0 +1,16 @@
+{
+  "corpus": "sift10m",
+  "n_queries": 10000,
+  "search_params": {
+    "L": 50,
+    "W": 4,
+    "k": 10
+  },
+  "wall_clock_sec": 74.70250368118286,
+  "mean_harness_recall_vs_gt": 0.9800900000000001,
+  "mean_stock_recall_vs_gt": 0.9801,
+  "aggregate_recall_gap_pct": 0.0009999999999843467,
+  "mean_stock_id_set_overlap": 0.9999399999999999,
+  "exact_id_set_match_fraction": 0.9994,
+  "aggregate_gate_pass": true
+}

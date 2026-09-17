@@ -1,0 +1,16 @@
+{
+  "corpus": "msmarco",
+  "n_queries": 10000,
+  "search_params": {
+    "L": 50,
+    "W": 4,
+    "k": 10
+  },
+  "wall_clock_sec": 65.75698590278625,
+  "mean_harness_recall_vs_gt": 0.8352099999999999,
+  "mean_stock_recall_vs_gt": 0.8353400000000002,
+  "aggregate_recall_gap_pct": 0.013000000000029655,
+  "mean_stock_id_set_overlap": 0.99954,
+  "exact_id_set_match_fraction": 0.997,
+  "aggregate_gate_pass": true
+}
